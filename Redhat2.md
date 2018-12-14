@@ -174,6 +174,6 @@ Optionally, use your browser and connect using URL or IP. For example:
 For detailed information on using the clients, see the [ownCloud Client User Manual](https://doc.owncloud.org/server/8.2/user_manual/files/access_webdav.html).
 
 
-## For More Information About ownCloud
+## For More Information About ownCloud 
 
 See the [ownCloud documentation site](https://doc.owncloud.org/server/index.html) for comprehensive task and reference material about ownCloud.
